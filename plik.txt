@@ -1,3 +1,4 @@
 pierwszy plik:
 dodatkowa zmiana\
 trzecia linia - trzecia linia master
+4 linia
