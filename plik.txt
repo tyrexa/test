@@ -1,6 +1,6 @@
 pierwszy plik:
 dodatkowa zmiana\
 trzecia linia - trzecia linia master
-4 linia
+4 linia - usunieta
 5 linia z github
 
